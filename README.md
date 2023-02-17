@@ -1,1 +1,2 @@
 # Explore-US-Bikeshare-Data
+In this project, we will explore data related to bike share systems in three major cities in the United States: Chicago, New York City, and Washington. The data will be imported and analyzed using Python to answer interesting questions about it through computing descriptive statistics. Furthermore, an interactive terminal experience will be created to present these statistics using raw input. The purpose of this project is to gain insights into bike share systems in these cities and present the findings in an accessible way
