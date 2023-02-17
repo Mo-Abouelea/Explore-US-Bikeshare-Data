@@ -12,12 +12,12 @@ A terminal application.
 ## The Datasets
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
-Start Time
-End Time 
-Trip Duration 
-Start Station
-End Station
-User Type
+* Start Time
+* End Time 
+* Trip Duration 
+* Start Station
+* End Station
+* User Type
 
 ## Statistics Computed
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
